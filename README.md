@@ -28,3 +28,10 @@ API example:
     setTextColor(ILI9341_MAGENTA, ILI9341_BLACK);
     drawStringX(spi,"Hello World!",50,130,2);
 ```
+
+### Credits 
+
+Code borrows from: 
+
+https://github.com/MartyMacGyver/ESP32_Adafruit_ILI9341
+https://github.com/lexus2k/ssd1306
